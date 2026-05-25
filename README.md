@@ -12,6 +12,15 @@ Diagnose and fix my Wi-Fi latency spikes on macOS. Run network diagnostics to me
 
 Claude/Codex will run the full diagnostic, explain what it finds, and tell you exactly what to change.
 
+## Results
+
+| Before | After |
+|---|---|
+| ![Before](Before.png) | ![After](After.png) |
+
+**Before:** 177 Mbps down, ping spiking to 158 ms
+**After:** 298 Mbps down, ping dropped to 7 ms
+
 ## Problem
 
 Fast download/upload speeds but high latency spikes — router pings spiking to 70–100 ms, Apple Network Quality loaded responsiveness above 150 ms.
