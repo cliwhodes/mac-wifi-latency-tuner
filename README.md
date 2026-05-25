@@ -2,6 +2,16 @@
 
 macOS scripts for diagnosing and reducing Wi-Fi latency spikes. Built with Claude Code.
 
+## Try it yourself — no setup needed
+
+Paste this as a goal in [Claude Code](https://claude.ai/code) or [Codex](https://chatgpt.com/codex), sit back, and let it run:
+
+```
+Diagnose and fix my Wi-Fi latency spikes on macOS. Run network diagnostics to measure router latency, internet latency, DNS speed, Wi-Fi signal, and loaded responsiveness. Identify the root cause — channel width, interference, bufferbloat, DNS, or app load. Apply any safe Mac-side fixes automatically. Give me a clear, specific action plan for any router changes needed, with target numbers to verify it worked.
+```
+
+Claude/Codex will run the full diagnostic, explain what it finds, and tell you exactly what to change.
+
 ## Problem
 
 Fast download/upload speeds but high latency spikes — router pings spiking to 70–100 ms, Apple Network Quality loaded responsiveness above 150 ms.
